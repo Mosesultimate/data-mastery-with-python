@@ -2,7 +2,7 @@
 This repo documents my progression from Python basics to full machine learning projects.
 # Data Mastery with Python 🧠🐍
 
-A guided journey to master Python for real-world data analysis — from basics to NumPy, Pandas, visualization, and real case studies.
+A journey to master Python for real-world data analysis — from basics to NumPy, Pandas, visualization, and real case studies.
 
 ---
 
@@ -37,7 +37,7 @@ data-mastery-with-python/
 
 Build a portfolio that demonstrates:
 
-✅ Clean, reusable, professional Python  
+✅ Clean, reusable, and functional Python scripts  
 ✅ Strong data transformation skills  
 ✅ Real-world analytics problem solving  
 ✅ Good Git hygiene and project structure
@@ -47,3 +47,4 @@ Build a portfolio that demonstrates:
 ### 🚀 Author
 
 **Moses Matola** — Data Analytics & Engineering Aspirant  
+**email**: mosesmatola548@gmail.com
